@@ -1,0 +1,8 @@
+USAGE
+=====
+
+0. Plug the keys
+1. Put your stuff in ./source/
+2. Run the script
+
+Note: sda is excluded of the list, exclude other stuff if needed.
